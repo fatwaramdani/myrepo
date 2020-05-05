@@ -1,3 +1,3 @@
 # myrepo
 testing
-This is a line from RStudio
+Ini adalah repository data dari Buku "Sains Data Geospasial" untuk latihan secara mandiri bagi pembaca buku tersebut
